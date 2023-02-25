@@ -1,5 +1,7 @@
 # Basic Introduction of SameSite Policy
 
+[Miro link](https://miro.com/app/board/uXjVPM_Rg8s=/?moveToWidget=3458764546587041112&cot=14)
+
 ## Context
 
 I work on a ticket to embed a knowledge center application (an iframe) to the main application. When the app runs on the staging environment, no actual content has been showed but a message requests user to log in. However, the link of the knowledge center app works fine if I open it in a separate tab.
